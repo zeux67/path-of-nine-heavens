@@ -61,4 +61,4 @@ Saves are stored locally in your browser or app. To move a save between devices 
 
 ## ✒️ Credits
 
-Made by Zeel Ramani.
+Made by Zeux.
