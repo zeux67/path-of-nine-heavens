@@ -1,0 +1,337 @@
+[
+  {
+    "path": "src/App.tsx",
+    "sha256": "3195306cccee2ffdb82ffa39f23ef1db4a9b8df21492a826f6f3ad256412affe",
+    "original_identical": false
+  },
+  {
+    "path": "src/game/arts.ts",
+    "sha256": "9f438a89c4b7989feae228d0449182a5da84f1e07497bf3429f6d9f366834c0a",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/biomes.ts",
+    "sha256": "7ab120a10e51a2a842d76adfac30d38f1982187f3b813c098a267830604173d2",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/books.ts",
+    "sha256": "d8d8739fbf59c9cb95872005da2d534b63d4ab18790f58bc39b6802b6aea1b74",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/borders.ts",
+    "sha256": "e3dd708c369db0a2417c2ec8529a10e2bd7c2c2d2ba289cd7d4510f963a893f5",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/caravans.ts",
+    "sha256": "7f9f7397dc09956b84c6ad56627d5d24aed6351daecfa7f59c7a7cc6a3e9c354",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/coastlines.ts",
+    "sha256": "a4ee06830291c7ace288f8757e397caa0354cd67b32a4e2262c79fffe9d10ec7",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/combat.ts",
+    "sha256": "5cd1e3b3b5266a974559152b95b8709466ee558d51b5b06fdf0aa524d2e66f1d",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/craft.ts",
+    "sha256": "346caa42c03223ee111893b939f3378943dd693cff1266a110fb37528c140340",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/craftx.ts",
+    "sha256": "942ce812bd39ba70be073db6947154ab5313c1363b4855cdda193e586778ae81",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/crops.ts",
+    "sha256": "0bf0756381d7364a39a794c402a64e400bb52d60ecbdb3f3b9e68057f72dec2f",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/cultivation.ts",
+    "sha256": "57530f42f598604d04f18e479285ef23635c8d7d55caf9fa70b737a5399e6b62",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/danger.ts",
+    "sha256": "624789dd8b1d5ac8bfbc44d0a569325b81424d940ee299a0c9f775958f7bc6de",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/data.ts",
+    "sha256": "2f3edbf52ac586c28f6320a0b8d30157929a0b18093635785b6cb34ad338564a",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/duties.ts",
+    "sha256": "a820426869b56c608e899e2818499738a98540f5128d555051de40362407b6fd",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/economy.ts",
+    "sha256": "b63f7459312ddec1b2f5c254889137f51b72c7c0bfe2744ee2182c3a2c2d7dd7",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/eventData.ts",
+    "sha256": "8906a5ea8c5fcaa9035a1d5bd118d4e8ceec2e00bca14442fcc26294b5f9dc25",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/eventData2.ts",
+    "sha256": "4f1c22d0df77f9a0c837fe3508c07774b9c6b295b6e9d0c0b83635341275a9de",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/eventData3.ts",
+    "sha256": "cf185dd8b5ba069db564d5309590f88c878d7165a2bd71fae82cbe1e442de811",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/eventData4.ts",
+    "sha256": "a4cc466ccbaf5e1803659a732d2b9f0d9df26794b8126d81950db9fc80e7f880",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/eventData5.ts",
+    "sha256": "cff0acaa096717e52a0f13294ee40df0d55b076af6e2f661d4deb051fdaef024",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/eventData6.ts",
+    "sha256": "af542b96d5053d777f4c42abd02cc959d1c184e729d0e850da9d6e4278510f01",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/eventData7.ts",
+    "sha256": "59cafa62d5997f9e002f150d7677f11d79df172a634df5b805b7cc90668dab57",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/events.ts",
+    "sha256": "8d012baf6d3da7cc78ac22818c6a3a5874a5c903575c8caad9cdd3f459890ddd",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/family.ts",
+    "sha256": "6d07e211e67d6254de954d9d41a4b10589a131a7504918b3bb9a7eefb08f4674",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/fate.ts",
+    "sha256": "e69b78a9f0e5e6f01297c2e4e1e962a1b3f4da6cf4d471c319e9168686490523",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/gear.ts",
+    "sha256": "7c969125e9da6a44fc3ebed2bc5d665ad34f5c824ef98c6938f84da013099b81",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/goals.ts",
+    "sha256": "a0f4c3544b248097c359c3ebd9ee8b129ddc468a9af14c0e0a2d158e2a799fda",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/grammar.ts",
+    "sha256": "fbb268143d09ed3d0d481836320f1b895697c3604a80751aa1e91f2af2d2de73",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/jobs.ts",
+    "sha256": "f98d266c920e139ba7a52f66c7e83e4dc7b3e2f875833627c96486149f33adf0",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/karma.ts",
+    "sha256": "a5d4dd376d33a6ccbf08ecd81d1c358851aca2c490738cd289de54576ea3eb9b",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/landMask.ts",
+    "sha256": "0af46ac826f4ec43403cbf01580615a3f6d5a1eae5145780112b17d28eace189",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/living.ts",
+    "sha256": "61b85cf4275f18e709248e86dcb822388c1911aa04fa3be6880501463fe83dc7",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/mapImage.ts",
+    "sha256": "8f21f8ed3ef2061be661b67a5bbef261902bfd47822bc60581d7e296c9bf7c07",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/migrate.ts",
+    "sha256": "c80f45468fb0d832fecb1b5ad1b2e3e4d6300d750dc834afe6725c8aa63c11cb",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/names.ts",
+    "sha256": "f3d643ba657771dbad83e8638eb1c79237293d1d43a1d337b921dbd954972aed",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/nav.ts",
+    "sha256": "1471b064b21c7fed86a3bb04c2c050ac50306d760a2a620c04c58569b623ccbc",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/people.ts",
+    "sha256": "7d0ed3660a5b0d6c4fd84d77ec19e6c07f298b1eb31ff6f5d0e1de88a6d56bbe",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/pills.ts",
+    "sha256": "9583cdb4ac4575641c30a350b118da6817f85c48c482329089892cbea2367c59",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/quests.ts",
+    "sha256": "fcd79dff4e8ea81e16d2f4c62d619ac2259caaaa2d376d16cda32efdeea3d1a9",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/rng.ts",
+    "sha256": "985ed7cafa0a41b465239dcee95f696e8e20ceefcdea55dd35a2c55db2e956aa",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/seaMask.ts",
+    "sha256": "9e4d2e1435010b40d021dbfa152c4f402cb2f6665ce67a8d64e70708f617782d",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/seclusion.ts",
+    "sha256": "4bc0346dccbdf191424eb2729ce6f9e799d4d29621503fbe5ae4e3d2226303d7",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/sect.ts",
+    "sha256": "5a368da61f63456d9e463c866c062adbbfc56bc52571b61857b4a04c7fe1dc15",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/sectlife.ts",
+    "sha256": "5d88c00c8e66001e95525ec70e284693417de318d8cc0bc2aac22f6318bfbf8c",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/state.ts",
+    "sha256": "d442006b28c59e7ca2d19a582395a8333c8b8aa5839d29a2c5074190b35b5041",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/ventures.ts",
+    "sha256": "8b082e87f34d69116f7f8e26c3345f289f7c58471c86793f2e872f752e1f1a43",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/version.ts",
+    "sha256": "0999c43da7364bd31fc1e3803b11e0c508284ed7088e10d0317e7e51c33105a7",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/war.ts",
+    "sha256": "c7484533becfb50e396ca1aa4f3ac50f4858a156c2dbc3fbfd1d54f01806f690",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/wealth.ts",
+    "sha256": "a949a9d0543fe3f92e7c610c08dd699248e1e000dc72cf3410654d5c80a71db0",
+    "original_identical": true
+  },
+  {
+    "path": "src/game/world.ts",
+    "sha256": "0544f3ff10d52e953f86187ad5e36cd6af5aff52c663ec695e85122a008279ec",
+    "original_identical": true
+  },
+  {
+    "path": "src/main.tsx",
+    "sha256": "6f7fc7f2842d2f9021e31988529cc75acba79aa62ad975b7b6276d7f29d579f7",
+    "original_identical": false
+  },
+  {
+    "path": "src/storage.ts",
+    "sha256": "97c04be886e25291370b58cea562bf2bac5aa430f8544aaefcbe731b0ffe77dc",
+    "original_identical": false
+  },
+  {
+    "path": "src/style.css",
+    "sha256": "828461a04708ff3a01ae06bfdd08a60003d1d751f0a8b9fe7123f9a77dd334c0",
+    "original_identical": true
+  },
+  {
+    "path": "src/ui/Battle.tsx",
+    "sha256": "64953b54fe0bcedfe062571782216c25ea2cedf3d0d250d75d681db0014d8ab1",
+    "original_identical": true
+  },
+  {
+    "path": "src/ui/CraftDepth.tsx",
+    "sha256": "d88c9271f85e7beb98330ae9e35cc3db197967d167959f65564d366dde819638",
+    "original_identical": true
+  },
+  {
+    "path": "src/ui/Creation.tsx",
+    "sha256": "0e503c452c4249a082344a6995e7c9e0b7d35bcc702570a1faa1d337da196f2d",
+    "original_identical": true
+  },
+  {
+    "path": "src/ui/ErrorBoundary.tsx",
+    "sha256": "1aa069f9462c874f250902509fd9cf3b0c62ad4b02bc519669df6d9d908eb387",
+    "original_identical": true
+  },
+  {
+    "path": "src/ui/EventScreen.tsx",
+    "sha256": "53e4eb496745633b43f22bf615cd0cdda83877883e903555303d7dd74ece6481",
+    "original_identical": true
+  },
+  {
+    "path": "src/ui/Game.tsx",
+    "sha256": "d55ce62c4ee2de7dec7d7197dacbc498991e3476fff0f35bac07544016896766",
+    "original_identical": true
+  },
+  {
+    "path": "src/ui/HeartDemon.tsx",
+    "sha256": "2eec10a727d397fac002eb442765ca318aa9ea3935923186f4bc296932ed3c3e",
+    "original_identical": true
+  },
+  {
+    "path": "src/ui/ManualBtn.tsx",
+    "sha256": "e173d160d762b62ee3b331250dbc97de066529d419357f286651799a59ecb826",
+    "original_identical": true
+  },
+  {
+    "path": "src/ui/MapView.tsx",
+    "sha256": "dd5bf97e0036318269fe1c62859b785380db658b7794d02d1a0c0d36efbfa43a",
+    "original_identical": true
+  },
+  {
+    "path": "src/ui/Seclusion.tsx",
+    "sha256": "baf811f30e30173853aa42846f5b027dbb490cb62818086f2539c3f2eb1b4dbb",
+    "original_identical": true
+  },
+  {
+    "path": "src/ui/WorldMarket.tsx",
+    "sha256": "5bf3113b547bfad6f26ea7e67d4f84fd5c4709cbee1227def886c0745282ccd6",
+    "original_identical": true
+  },
+  {
+    "path": "src/ui/prefs.ts",
+    "sha256": "80fecb209e2ce6bdc97b8639f36b8edf0adc23733ccc7bc5ab1790ddcf8bfaa4",
+    "original_identical": true
+  },
+  {
+    "path": "src/ui/splashArt.ts",
+    "sha256": "fde4554fabfff0583264d737b0e17386478f1b9f32d8c57f9c2c459436f954b2",
+    "original_identical": true
+  }
+]
