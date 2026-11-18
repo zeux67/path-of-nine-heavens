@@ -26,7 +26,7 @@ FIXES
 - The arena money loop is closed: duel rewards were reined in and duels now cost the realm-scaled time above.
 - Importing a broken or edited save no longer crashes the game; invalid saves are rejected cleanly and your current life is untouched.
 - Broken mining puppets now restart work once repaired, with no retroactive output.
-- Map, log and fate fixes, plus the bugs found across thousands of simulated economy runs and full lifetimes.
+- Map, log and fate fixes, plus the bugs caught in pre-release review and simulation passes.
 
 Save: this Android release is a new app, "Nine Heavens 0.3 Fresh". It installs alongside the old one - it does not update a 0.2 install, and progress does not transfer. The browser version on the website stays on 0.2 for now and updates with the next (visual) update. Balance is still being tuned: active play currently earns money faster than the world takes it back.
 
