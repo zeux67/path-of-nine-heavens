@@ -1,7 +1,7 @@
 # Path of Nine Heavens - Changelog
 
 Every released version, newest first, in one format: NEW / CHANGED / FIXES.
-Play any version in your browser from the versions page, or install its APK on Android.
+Install any version on Android from its APK. Versions up to 0.2 also play in your browser from the versions page; 0.3 is APK-only until the next update.
 
 ---
 
