@@ -5,6 +5,33 @@ Play any version in your browser from the versions page, or install its APK on A
 
 ---
 
+## v0.3 - November 18, 2026
+
+NEW
+- Inheritance and succession: when a life ends, continue as one of your actual children - root, talent, affinity and age carry over. Pick from a list of your kids showing their details; the oldest living child inherits the leadership even if you play another, and a minor heir rules through a regent until they come of age. With no children, a senior member takes over.
+- Personal estate: what your character actually owned (wealth, treasures, rare herbs and plants, properties) splits equally by value among living children, minors included. Each heir chooses cash, property or shared ownership, and indivisible property can be sold.
+- Force treasury and dispatch: a force's treasury is never divided by inheritance. Items enter through force mechanics; only the sect leader or family patriarch draws on it, and elders need the leader's approval. Your own force can now dispatch its members on tasks.
+- Property market: buy and sell personal property. Prices follow a city's prosperity, safety and wars. Selling is an instant quote, no waiting for buyers.
+- Chamber shareholding: ownership follows contribution. New money buys shares at the current valuation (cash + property + 5 years of sustainable route profit) and dilutes existing owners; either owner can bring in a new investor; decisions need a majority of shares; property upgrades count as investment. Chambers can own commercial properties - taverns, restaurants, tea houses, auction houses and more.
+- Bankruptcy: a failing chamber's accounts and liquidated property pay first; the shortfall falls on current owners by share. Time stops until you settle: pay now, take a 1-year interest-free repayment contract (missing it blocks new chambers and investments), or flee to another continent - arriving clears the debt. The contract ends on death and is not inherited.
+- Immortal Emperor pinnacle: reaching the final realm shows a one-time congratulations and a retrospective of that character's journey. You can keep playing afterward.
+- Content push: the event library grows past 1,000 distinct events, no padding with renamed variants. Alchemy gains dozens of new named pills alongside the ranked per-realm families - cultivation, breakthrough, permanent growth and lifespan - with permanent and lifespan doses capped per life.
+- Craft depth: every craft now has real study times, a per-craft talent hidden until your first successful craft, and Fine or Superior output quality.
+
+CHANGED
+- Arena duels cost game time by realm: a day at the low realms, a week from Nascent Soul, a month from Spirit Unity, a year from Pseudo Immortal, and ten years from Golden Immortal up. Only a completed duel costs time (win, lose or yield); a successful escape does not. You don't cultivate during a duel, but you age and the world moves on.
+- Pills follow realm rules end to end: a higher-realm pill taken early can seriously hurt or kill you, and lower-realm pills weaken as you outgrow them.
+
+FIXES
+- The arena money loop is closed: duel rewards were reined in and duels now cost the realm-scaled time above.
+- Importing a broken or edited save no longer crashes the game; invalid saves are rejected cleanly and your current life is untouched.
+- Broken mining puppets now restart work once repaired, with no retroactive output.
+- Map, log and fate fixes, plus the bugs found across thousands of simulated economy runs and full lifetimes.
+
+Save: this Android release is a new app, "Nine Heavens 0.3 Fresh". It installs alongside the old one - it does not update a 0.2 install, and progress does not transfer. The browser version on the website stays on 0.2 for now and updates with the next (visual) update. Balance is still being tuned: active play currently earns money faster than the world takes it back.
+
+---
+
 ## v0.2 - November 16, 2026
 
 NEW
